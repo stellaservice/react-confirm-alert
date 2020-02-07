@@ -21,12 +21,12 @@ export default class ReactConfirmAlert extends Component {
       {
         label: 'Cancel',
         onClick: () => null,
-        className: '',
+        className: ''
       },
       {
         label: 'Confirm',
         onClick: () => null,
-        className: '',
+        className: ''
       }
     ],
     childrenElement: () => null,
